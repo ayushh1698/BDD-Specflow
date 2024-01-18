@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SpecFlowProject1/.vs
+/SpecFlowProject1/bin/Debug/net7.0
+/SpecFlowProject1/obj/Release/net7.0
+/SpecFlowProject1/obj/Debug/net7.0
+/SpecFlowProject1/obj/Debug/net6.0
+/SpecFlowProject1/obj
+/DataHub/bin/Debug/net7.0
+/DataHub/obj
+/DataHub/TestResults/index.html
+/DataHub/DataHub.csproj
+/DataHub/Features/Smoke_Test.feature.cs
+/DataHub/Features/Settings/Portal_Datahub.feature.cs
